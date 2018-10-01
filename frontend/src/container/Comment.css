@@ -1,0 +1,14 @@
+.overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: rgba(0,0,0, 0.30);
+}
+
+.close {
+  display: inline-block;
+  cursor: pointer;
+  padding: 0 0 10px 10px;
+}

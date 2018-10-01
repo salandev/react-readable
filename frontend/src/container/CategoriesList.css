@@ -1,0 +1,6 @@
+.catBtn {
+	border-bottom: 1px solid #eee;
+}
+.catBtn.activeCat {
+	background: #eee;
+}
